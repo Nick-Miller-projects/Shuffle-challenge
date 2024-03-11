@@ -5,7 +5,7 @@ From the project root directory, run
 ```./gradlew shadowJar```
 
 ## Usage
-To run the application from the command line, run like so 
+To run the application from the command line
 ```java -jar build/libs/ShuffleValidator-all.jar <word1> <word2> <shuffle>```
 
 ## Example usage
